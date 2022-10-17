@@ -20,6 +20,7 @@ Business Manager is a desktop application that helps you keep track of your busi
 **"A" Key:** Add a random Employee to test out the app.
 
 On each Employee instance
+
 **Edit button (pencil):** Edit Employee info or simply view his info.
 **Delete button (x):** Delete Employee.
 
