@@ -8,19 +8,20 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 ### Dashboard panel
 
-**Company Overview** Shows you how many employees your business by type, how much money is spent on average and how much money is spent in total.
-**Quick Notes** Allows you to make fast notes.
+**Company Overview:** Shows you how many employees your business by type, how much money is spent on average and how much money is spent in total.
+
+**Quick Notes:** Allows you to make fast notes.
 
 ### Employees panel
 
-**Ctrl+Z** Undo previous move.
+**Ctrl+Z:** Undo previous move.
 
-**Add button (up left)** Opens up new Employee info. Add new Employee with **Add button**.
-**"A" key** Add a random Employee to test out the app.
+**Add button (up left):** Opens up new Employee info. Add new Employee with **Add button**.
+**"A" Key:** Add a random Employee to test out the app.
 
 On each Employee instance
-**Edit button (pencil)** Edit Employee info or simply view his info.
-**Delete button (x)** Delete Employee.
+**Edit button (pencil):** Edit Employee info or simply view his info.
+**Delete button (x):** Delete Employee.
 
 
 Thank you for taking the time to test out this project.
