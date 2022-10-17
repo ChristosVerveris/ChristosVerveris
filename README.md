@@ -18,10 +18,10 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 **Ctrl+Z:** Undo previous move.
 
-**Add button (up left):** Opens up new Employee info. Add new Employee with **Add button**.
-**"A" Key:** Add a random Employee to test out the app.
+**Add button (up left):** Opens up new Employee info. Add new Employee with **Add button**.<br/>
+**"A" Key:** Add a random Employee to test out the app.<br/>
 
-On each Employee instance<br/>
+On each present Employee<br/>
 **Edit button (pencil):** Edit Employee info or simply view his info.<br/>
 **Delete button (x):** Delete Employee.<br/>
 
