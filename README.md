@@ -12,7 +12,7 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 ## Dashboard panel
 
-![2 Dashboard](https://user-images.githubusercontent.com/115983223/196179833-9c0cc62d-307f-4efc-b0e2-c05f72ddcc94.png)
+![2 Dashboard](https://user-images.githubusercontent.com/115983223/196182337-5e11a96f-2856-4370-9722-b49f4da3e864.png)
 
 **Company Overview:** Shows you how many employees your business has by type, how much money is spent on average and how much money is spent in total.
 
@@ -21,7 +21,7 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 ## Employees panel
 
-![1 Employees](https://user-images.githubusercontent.com/115983223/196179788-412b695d-946b-4db1-9248-c4996b38586f.png)
+![1 Employees](https://user-images.githubusercontent.com/115983223/196182300-40bcf867-44a7-4217-acb5-841c742fe6ab.png)
 
 **Ctrl+Z:** Undo previous move.
 
