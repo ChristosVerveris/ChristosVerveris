@@ -6,6 +6,9 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 **Ctrl+S** Save current state of the application.
 
+##Company name
+
+**Name up left corner** Click your business name to change it at any time.
 
 ### Dashboard panel
 
