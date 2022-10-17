@@ -10,7 +10,7 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 **Name up left corner** Click your business name to change it at any time.
 
-### Dashboard panel
+### Dashboard panel<br/>
 
 ![2 Dashboard](https://user-images.githubusercontent.com/115983223/196179833-9c0cc62d-307f-4efc-b0e2-c05f72ddcc94.png)
 
@@ -19,7 +19,7 @@ Business Manager is a desktop application that helps you keep track of your busi
 **Quick Notes:** Allows you to make fast notes.
 
 
-### Employees panel
+### Employees panel<br/>
 
 ![1 Employees](https://user-images.githubusercontent.com/115983223/196179788-412b695d-946b-4db1-9248-c4996b38586f.png)
 
