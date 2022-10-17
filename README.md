@@ -3,7 +3,7 @@ Config files for my GitHub profile.
 
 # Business Manager 
 
-Business Manager is a desktop application that helps you keep track of your business employee expenses.
+Business Manager is a desktop application that helps you keep track of your business expenses.
 
 ## Uses
 
