@@ -16,6 +16,8 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 ### Employees panel
 
+1 Employees.png
+
 **Ctrl+Z:** Undo previous move.
 
 **Add button (up left):** Opens up new Employee info. Add new Employee with **Add button**.<br/>
@@ -24,7 +26,6 @@ Business Manager is a desktop application that helps you keep track of your busi
 On each present Employee<br/>
 **Edit button (pencil):** Edit Employee info or simply view his info.<br/>
 **Delete button (x):** Delete Employee.<br/>
-![2 Dashboard](https://user-images.githubusercontent.com/115983223/196178437-a7923c4a-3f45-4ce8-80c1-acf14bfd1fde.png)
 
 
 Thank you for taking the time to test out this project.
