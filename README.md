@@ -8,11 +8,11 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 ## Company name
 
-**Name up left corner** Click your business name to change it at any time.
+**Business Name (up-left corner)** Click your business name to change it at any time.
 
 ## Dashboard panel
 
-![2 Dashboard](https://user-images.githubusercontent.com/115983223/196185095-87cc9fb9-d250-418e-a3d5-3ef2ed30d27c.png)
+![2 Dashboard](https://user-images.githubusercontent.com/115983223/196432848-60cfb4b3-28fc-4f86-83a5-b6241699d8fb.png)
 
 **Company Overview:** Shows you how many employees your business has by type, how much money is spent on average and how much money is spent in total.
 
@@ -21,16 +21,17 @@ Business Manager is a desktop application that helps you keep track of your busi
 
 ## Employees panel
 
-![1 Employees](https://user-images.githubusercontent.com/115983223/196185060-e3f633a2-ae8c-4638-8d52-8ec31f0f1058.png)
+![1 Employees](https://user-images.githubusercontent.com/115983223/196432897-390f5d60-a21b-413c-8bdf-141b0937303d.png)
 
 **Ctrl+Z:** Undo previous move.
 
-**Add button (up left):** Opens up new Employee info. Add new Employee with **Add button**.<br/>
-**"A" Key:** Add a random Employee to test out the app.<br/>
+**Add button (up left) or A Key:** Opens up new Employee info. Add new Employee with **Add button**.<br/>
+**"Space" Key:** Add a random Employee to test out the app.<br/>
 
 On each present Employee<br/>
 **Edit button (pencil):** Edit Employee info or simply view his info.<br/>
 **Delete button (x):** Delete Employee.<br/>
+**Centre Click:** Click an Employee to re-position him inside the Grid.<br/>
 
 
 **Thank you for taking the time to test out this project.**
