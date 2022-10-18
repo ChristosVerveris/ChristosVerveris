@@ -25,13 +25,13 @@ Business Manager is a desktop application built using C# that helps you keep tra
 
 **Ctrl+Z:** Undo previous move.
 
-**Add button (up left) or A Key:** Opens up new Employee info. Add new Employee with **Add button**.<br/>
+**Add button (up left) or A Key:** Opens up new Employee tab. Inside the tab press the **Add button** or **Enter** to add your new Employee.<br/>
 **"Space" Key:** Add a random Employee to test out the app.<br/>
 
 On each present Employee<br/>
+**Centre Click:** Click an Employee to re-position him inside the Grid.<br/>
 **Edit button (pencil):** Edit Employee info or simply view his info.<br/>
 **Delete button (x):** Delete Employee.<br/>
-**Centre Click:** Click an Employee to re-position him inside the Grid.<br/>
 
 
 **Thank you for taking the time to test out this project.**
