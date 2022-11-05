@@ -8,6 +8,8 @@ In this game you control Sora as he tries to uncover his memories.</br>
 
 # How to Play
 
+![Kingdom_Hearts_3](https://user-images.githubusercontent.com/115983223/200136620-9cb736ed-da8a-4dd2-8282-4e01aebda0a3.gif)
+
 ## Controls
 
 **WASD** - Move</br> 
@@ -19,11 +21,12 @@ In this game you control Sora as he tries to uncover his memories.</br>
 **Space** Progress Dialogue</br> 
 **Escape** - Pause Game</br> 
 
-![Kingdom_Hearts_3](https://user-images.githubusercontent.com/115983223/200136620-9cb736ed-da8a-4dd2-8282-4e01aebda0a3.gif)
-
 **Link to the game**</br> 
 https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br> 
 File size: ~ 1.5GB</br> 
 
 **Thank you for taking the time to test out this project.**
+
+![Kingdom_Hearts_1](https://user-images.githubusercontent.com/115983223/200136708-2acd7416-d704-4b10-97ec-4ff4835e12cd.gif)
+
 
