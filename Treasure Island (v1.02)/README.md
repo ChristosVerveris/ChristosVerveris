@@ -24,7 +24,7 @@ Buttons top right corner.</br>
 
 ![Treasure_Island_3](https://user-images.githubusercontent.com/115983223/200131968-5c47b92c-6186-408d-917e-3e57e03fcb22.gif)
 
-Link to the game</br>
+**Link to the game**</br>
 https://www.dropbox.com/scl/fo/kdrs7998k71v0yfntjtsh/h?dl=0&rlkey=iubybl48xiubmpo96nyeigi10</br>
 File Size: 88 MB</br>
 
