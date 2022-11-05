@@ -9,7 +9,7 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 
 ## How to Play
 
-**A / D**  - Move</br>
+**A / D**&nbsp; &nbsp;- Move</br>
 **W / Space**  - Jump</br>
 **Left Click** - Attack (when you find a weapon)</br>
 **Escape**   - Pause Game</br>
