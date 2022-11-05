@@ -1,11 +1,12 @@
 # Kingdom Hearts The Lost Chapters
+
+![Kingdom_Hearts_4](https://user-images.githubusercontent.com/115983223/200136614-f0ec2da4-28de-437f-a597-98fe5324c2a1.gif)
+
 Kingdom Hearts The Lost Chapters is the first game I built using Unity(C#).</br> 
 I created this game with the intention of learning Unity.</br>  
 In this game you control Sora as he tries to uncover his memories.</br> 
 
 # How to Play
-
-![Kingdom_Hearts_4](https://user-images.githubusercontent.com/115983223/200136614-f0ec2da4-28de-437f-a597-98fe5324c2a1.gif)
 
 ## Controls
 
