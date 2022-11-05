@@ -1,38 +1,28 @@
-# Business Manager 
+# Treasure Island
 
-Business Manager is a desktop application built using C# that helps you keep track of your business expenses.
+Treasure Island is a small game I built using Unity(C#). 
+You control a pirate who tries to find a hidden treasure scattered around in an island.
 
-# How to use
+# How to Play
 
 **Ctrl+S** Save current state of the application.
 
-## Company name
+![Treasure_Island_1](https://user-images.githubusercontent.com/115983223/200130834-10876920-b039-47a1-bc0c-6a4ef0a28e09.gif)
 
-**Business Name (up-left corner)** Click your business name to change it at any time.
+## How to Play
 
-## Dashboard panel
+**A / D**      - Move
+**W / Space**  - Jump
+**Left Click** - Attack (when you find a weapon)
+**Escape**     - Pause Game
 
-![2 Dashboard](https://user-images.githubusercontent.com/115983223/196432848-60cfb4b3-28fc-4f86-83a5-b6241699d8fb.png)
+![Treasure_Island_2](https://user-images.githubusercontent.com/115983223/200130918-045eb4c5-f160-43ec-a06a-892e51b2aee5.gif)
 
-**Company Overview:** Shows you how many employees your business has by type, how much money is spent on average and how much money is spent in total.
+Buttons top right corner.
+**(X) Button**     - Exits the App
+**(Arrow) Button** - Return to Main Menu
 
-**Quick Notes:** Allows you to make fast notes.
-
-
-## Employees panel
-
-![1 Employees](https://user-images.githubusercontent.com/115983223/196432897-390f5d60-a21b-413c-8bdf-141b0937303d.png)
-
-**Ctrl+Z:** Undo previous move.
-
-**Add button (up left) or A Key:** Opens up new Employee tab. Inside the tab press the **Add button** or **Enter** to add your new Employee.<br/>
-**"Space" Key:** Add a random Employee to test out the app.<br/>
-
-On each present Employee<br/>
-**Centre Click:** Click an Employee to re-position him inside the Grid.<br/>
-**Edit button (pencil):** Edit Employee info or simply view his info.<br/>
-**Delete button (x):** Delete Employee.<br/>
-
+![Treasure_Island_3](https://user-images.githubusercontent.com/115983223/200130951-b1a1d5d3-c717-4fa3-b0dd-ceb5f29fc123.gif)
 
 **Thank you for taking the time to test out this project.**
 
