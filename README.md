@@ -17,3 +17,12 @@ Business Manager is a desktop application I built using C# that helps you keep t
 **Check inside Business Manager folder for a more detailed description**
 
 ![1 Employees](https://user-images.githubusercontent.com/115983223/200131650-c28ed77a-edb9-4d63-b6e5-12e513aae597.png)
+
+
+## Kingdom Hearts The Lost Chapters
+
+Kingdom Hearts The Lost Chapters is a fan game I created as a personal project to get familiar with the Unity toolset.
+The characters of this project belong to its respective owners and this was only used for learning.
+
+![Kingdom_Hearts_2](https://user-images.githubusercontent.com/115983223/200135593-61445ba6-f736-41a8-bb31-a2bb8e340c60.gif)
+
