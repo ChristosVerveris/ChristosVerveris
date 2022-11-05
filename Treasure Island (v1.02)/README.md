@@ -7,7 +7,7 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 
 ![Treasure_Island_1](https://user-images.githubusercontent.com/115983223/200130834-10876920-b039-47a1-bc0c-6a4ef0a28e09.gif)
 
-## How to Play
+## Controls
 
 **A / D**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Move</br>
 **W / Space**&nbsp; - Jump</br>
