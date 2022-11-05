@@ -26,5 +26,6 @@ The characters of this project belong to its respective owners and this was only
 
 **Check inside KH The Lost Chapters folder for a more detailed description**
 
-![Kingdom_Hearts_2](https://user-images.githubusercontent.com/115983223/200135593-61445ba6-f736-41a8-bb31-a2bb8e340c60.gif)
+![Kingdom_Hearts_1](https://user-images.githubusercontent.com/115983223/200136574-ea217315-1dee-464e-b395-a03ae4997c4b.gif)
+
 
