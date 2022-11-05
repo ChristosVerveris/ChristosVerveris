@@ -1,26 +1,29 @@
-# Treasure Island
-
-Treasure Island is a small game I built using Unity(C#).</br> 
-You control a pirate who tries to find a hidden treasure scattered around in an island.
+# Kingdom Hearts The Lost Chapters
+Kingdom Hearts The Lost Chapters is the first game I built using Unity(C#).</br> 
+I created this game with the intention of learning Unity.</br>  
+In this game you control Sora as he tries to uncover his memories.</br> 
 
 # How to Play
 
-![Treasure_Island_1](https://user-images.githubusercontent.com/115983223/200130834-10876920-b039-47a1-bc0c-6a4ef0a28e09.gif)
+![Kingdom_Hearts_2](https://user-images.githubusercontent.com/115983223/200135776-3faff781-6b22-4f31-b490-482dd3bba2d1.gif)
+
 
 ## Controls
 
-**A / D**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Move</br>
-**W / Space**&nbsp; - Jump</br>
-**Left Click** - Attack (when you find a weapon)</br>
-**Escape**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pause Game</br>
+**WASD** - Move</br> 
+**Left Ctrl** - Block</br> 
+**Left Click** - Attack & Special Move</br> 
+**Right Click** - Ability</br> 
+**Mouse Scroll** - Rotate Abilities</br> 
+**E** - Open Chests</br> 
+**Space** Progress Dialogue</br> 
+**Escape** - Pause Game</br> 
 
-![Treasure_Island_2](https://user-images.githubusercontent.com/115983223/200130918-045eb4c5-f160-43ec-a06a-892e51b2aee5.gif)
+![Kingdom_Hearts_3](https://user-images.githubusercontent.com/115983223/200135791-b0fe5d23-ca4f-402f-9d15-858e468e2c58.gif)
 
-Buttons top right corner.</br>
-**(X) Button**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Exits the App</br>
-**(Arrow) Button** - Return to Main Menu</br>
-
-![Treasure_Island_3](https://user-images.githubusercontent.com/115983223/200131968-5c47b92c-6186-408d-917e-3e57e03fcb22.gif)
+**Link to the game**</br> 
+https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br> 
+File size: ~ 1.5GB</br> 
 
 **Thank you for taking the time to test out this project.**
 
