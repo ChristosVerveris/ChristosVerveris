@@ -7,7 +7,7 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 
 ![Treasure_Island_1](https://user-images.githubusercontent.com/115983223/200130834-10876920-b039-47a1-bc0c-6a4ef0a28e09.gif)
 
-## How to Play
+## Controls
 
 **A / D**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Move</br>
 **W / Space**&nbsp; - Jump</br>
@@ -20,7 +20,7 @@ Buttons top right corner.</br>
 **(X) Button**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Exits the App</br>
 **(Arrow) Button** - Return to Main Menu</br>
 
-![Treasure_Island_3](https://user-images.githubusercontent.com/115983223/200130951-b1a1d5d3-c717-4fa3-b0dd-ceb5f29fc123.gif)
+![Treasure_Island_3](https://user-images.githubusercontent.com/115983223/200131968-5c47b92c-6186-408d-917e-3e57e03fcb22.gif)
 
 **Thank you for taking the time to test out this project.**
 
