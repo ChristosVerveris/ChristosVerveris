@@ -27,6 +27,6 @@ File size: ~ 1.5GB</br>
 
 **Thank you for taking the time to test out this project.**
 
-![Kingdom_Hearts_1](https://user-images.githubusercontent.com/115983223/200136708-2acd7416-d704-4b10-97ec-4ff4835e12cd.gif)
+![Kingdom_Hearts_2](https://user-images.githubusercontent.com/115983223/200136760-c84a0275-edb5-40f6-aff3-e5c52e476a92.gif)
 
 
