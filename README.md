@@ -12,7 +12,7 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 
 ## Business Manager App
 
-Business Manager is a desktop application built using C# that helps you keep track of your business expenses.
+Business Manager is a desktop application I built using C# that helps you keep track of your business expenses.
 
 **Check inside Business Manager folder for a more detailed description**
 
