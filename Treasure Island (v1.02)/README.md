@@ -20,7 +20,7 @@ Buttons top right corner.</br>
 **(X) Button**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Exits the App</br>
 **(Arrow) Button** - Return to Main Menu</br>
 
-# Link
+# Link & Info
 
 ![Treasure_Island_3](https://user-images.githubusercontent.com/115983223/200131968-5c47b92c-6186-408d-917e-3e57e03fcb22.gif)
 
