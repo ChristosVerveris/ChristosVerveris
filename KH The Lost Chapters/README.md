@@ -5,8 +5,7 @@ In this game you control Sora as he tries to uncover his memories.</br>
 
 # How to Play
 
-![Kingdom_Hearts_2](https://user-images.githubusercontent.com/115983223/200135776-3faff781-6b22-4f31-b490-482dd3bba2d1.gif)
-
+![Kingdom_Hearts_4](https://user-images.githubusercontent.com/115983223/200136614-f0ec2da4-28de-437f-a597-98fe5324c2a1.gif)
 
 ## Controls
 
@@ -19,7 +18,7 @@ In this game you control Sora as he tries to uncover his memories.</br>
 **Space** Progress Dialogue</br> 
 **Escape** - Pause Game</br> 
 
-![Kingdom_Hearts_3](https://user-images.githubusercontent.com/115983223/200135791-b0fe5d23-ca4f-402f-9d15-858e468e2c58.gif)
+![Kingdom_Hearts_3](https://user-images.githubusercontent.com/115983223/200136620-9cb736ed-da8a-4dd2-8282-4e01aebda0a3.gif)
 
 **Link to the game**</br> 
 https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br> 
