@@ -5,16 +5,14 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 
 # How to Play
 
-**Ctrl+S** Save current state of the application.
-
 ![Treasure_Island_1](https://user-images.githubusercontent.com/115983223/200130834-10876920-b039-47a1-bc0c-6a4ef0a28e09.gif)
 
 ## How to Play
 
-**A / D**      - Move</br>
+**A / D**    - Move</br>
 **W / Space**  - Jump</br>
 **Left Click** - Attack (when you find a weapon)</br>
-**Escape**     - Pause Game</br>
+**Escape**   - Pause Game</br>
 
 ![Treasure_Island_2](https://user-images.githubusercontent.com/115983223/200130918-045eb4c5-f160-43ec-a06a-892e51b2aee5.gif)
 
