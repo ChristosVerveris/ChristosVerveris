@@ -12,12 +12,12 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 **A / D**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Move</br>
 **W / Space**&nbsp; - Jump</br>
 **Left Click** - Attack (when you find a weapon)</br>
-**Escape**&nbsp; &nbsp; &nbsp;- Pause Game</br>
+**Escape**&nbsp; &nbsp; &nbsp; - Pause Game</br>
 
 ![Treasure_Island_2](https://user-images.githubusercontent.com/115983223/200130918-045eb4c5-f160-43ec-a06a-892e51b2aee5.gif)
 
 Buttons top right corner.</br>
-**(X) Button**   - Exits the App</br>
+**(X) Button**&nbsp; &nbsp; &nbsp;- Exits the App</br>
 **(Arrow) Button** - Return to Main Menu</br>
 
 ![Treasure_Island_3](https://user-images.githubusercontent.com/115983223/200130951-b1a1d5d3-c717-4fa3-b0dd-ceb5f29fc123.gif)
