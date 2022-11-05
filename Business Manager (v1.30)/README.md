@@ -33,6 +33,9 @@ On each present Employee<br/>
 **Edit button (pencil):** Edit Employee info or simply view his info.<br/>
 **Delete button (x):** Delete Employee.<br/>
 
+**Download Link**<br/>
+https://www.dropbox.com/scl/fo/i1znn0vi0yef0vzlvcaon/h?dl=0&rlkey=evzfchx76yziyxsnhjjqix0g7<br/>
+File size: 58 MB
 
 **Thank you for taking the time to test out this project.**
 
