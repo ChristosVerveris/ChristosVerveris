@@ -1,0 +1,23 @@
+~~~~ Instructions ~~~~
+
+Welcome to my Business Manager Desktop App
+
+1. Open the Treasure Island Folder
+2. Locate the TreasureIsland.exe
+3. Run it or send it to Desktop.
+4. Enjoy
+
+Thank you for taking a look at this project.
+
+
+
+~~~~ Controls ~~~~
+
+A / D      - Move
+W / Space  - Jump
+Left Click - Attack
+Escape     - Pause Game
+
+Buttons top right corner.
+(X) Button     - Exits the App
+(Arrow) Button - Return to Main Menu
