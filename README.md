@@ -11,6 +11,7 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 
 **Link to the game**</br>
 https://www.dropbox.com/scl/fo/ac2edo572u00fdb74fzh3/h?dl=0&rlkey=3o66ufe2jr3yehhe2kmrb3m5m</br>
+Unzip and run the .exe
 File Size: 88 MB</br>
 
 ## Business Manager App
@@ -23,6 +24,7 @@ Business Manager is a desktop application I built using C# that helps you keep t
 
 **Download Link**<br/>
 https://www.dropbox.com/scl/fo/i1znn0vi0yef0vzlvcaon/h?dl=0&rlkey=evzfchx76yziyxsnhjjqix0g7<br/>
+Unzip and run the .exe
 File size: 58 MB
 
 ## Kingdom Hearts The Lost Chapters
@@ -35,5 +37,6 @@ The characters of this project belong to their respective owners and this was on
 ![Kingdom_Hearts_1](https://user-images.githubusercontent.com/115983223/200136574-ea217315-1dee-464e-b395-a03ae4997c4b.gif)
 
 **Link to the game**</br> 
-https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br> 
+https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br>
+Unzip and run the .exe
 File size: ~1.5 GB</br> 
