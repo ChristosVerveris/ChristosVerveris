@@ -21,6 +21,9 @@ Business Manager is a desktop application I built using C# that helps you keep t
 
 ![1 Employees](https://user-images.githubusercontent.com/115983223/200131650-c28ed77a-edb9-4d63-b6e5-12e513aae597.png)
 
+**Download Link**<br/>
+https://www.dropbox.com/scl/fo/i1znn0vi0yef0vzlvcaon/h?dl=0&rlkey=evzfchx76yziyxsnhjjqix0g7<br/>
+File size: 58 MB
 
 ## Kingdom Hearts The Lost Chapters
 
