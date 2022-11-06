@@ -9,6 +9,9 @@ You control a pirate who tries to find a hidden treasure scattered around in an 
 
 ![Treasure_Island_2](https://user-images.githubusercontent.com/115983223/200131668-a8758da0-8792-49a0-b6d6-26fa2cb1766f.gif)
 
+**Link to the game**</br>
+https://www.dropbox.com/scl/fo/ac2edo572u00fdb74fzh3/h?dl=0&rlkey=3o66ufe2jr3yehhe2kmrb3m5m</br>
+File Size: 88 MB</br>
 
 ## Business Manager App
 
