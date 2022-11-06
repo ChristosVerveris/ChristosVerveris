@@ -21,12 +21,13 @@ In this game you control Sora as he tries to uncover his memories.</br>
 **Space** Progress Dialogue</br> 
 **Escape** - Pause Game</br> 
 
+# Link & Info
+
+![Kingdom_Hearts_2](https://user-images.githubusercontent.com/115983223/200136893-dd398746-5464-4c84-8782-f0b72546b644.gif)
+
 **Link to the game**</br> 
 https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br> 
-File size: ~ 1.5GB</br> 
+File size: ~1.5 GB</br> 
 
 **Thank you for taking the time to test out this project.**
-
-![Kingdom_Hearts_2](https://user-images.githubusercontent.com/115983223/200136760-c84a0275-edb5-40f6-aff3-e5c52e476a92.gif)
-
 
