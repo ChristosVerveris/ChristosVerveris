@@ -31,4 +31,6 @@ The characters of this project belong to their respective owners and this was on
 
 ![Kingdom_Hearts_1](https://user-images.githubusercontent.com/115983223/200136574-ea217315-1dee-464e-b395-a03ae4997c4b.gif)
 
-
+**Link to the game**</br> 
+https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br> 
+File size: ~1.5 GB</br> 
