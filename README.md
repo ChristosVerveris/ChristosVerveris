@@ -29,19 +29,3 @@ https://www.dropbox.com/scl/fo/i1znn0vi0yef0vzlvcaon/h?dl=0&rlkey=evzfchx76yziyx
 File size: 58 MB
 
 Unzip and run the .exe</br>
-
-## Kingdom Hearts The Lost Chapters
-
-Kingdom Hearts The Lost Chapters is a fan game I created as a personal project to get familiar with the Unity toolset.
-The characters of this project belong to their respective owners and this was only used for learning.
-
-**Check inside KH The Lost Chapters folder for a more detailed description**
-
-![Kingdom_Hearts_1](https://user-images.githubusercontent.com/115983223/200136574-ea217315-1dee-464e-b395-a03ae4997c4b.gif)
-
-**Link to the game**</br> 
-https://www.dropbox.com/sh/bg4e3xn8veh2rsr/AAAxGwlsllPc54wr6snDzA9Ka?dl=0</br>
-File size: ~1.5 GB</br> 
-
-Unzip and run the .exe</br>
-
